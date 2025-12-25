@@ -1,8 +1,3 @@
-/**
- * CEM - Script de Lógica
- * Separação da lógica para facilitar manutenção do CSS/HTML
- */
-
 const SPREADSHEET_ID = '1f-xE9mroa3sTeoZMpLVIvY8fdfeOpmWXc_SxHP3_NWQ';
 const RANGE = "'Listagem de Membros'!D19:L98";
 const API_KEY = 'AIzaSyARN99qktfHU0auyX5LpJ84pfRrbS4vWk8'; 
